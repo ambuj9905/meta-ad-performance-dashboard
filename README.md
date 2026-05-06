@@ -92,7 +92,7 @@ This dashboard solves these problems using data-driven insights.
 
 ## 🔗 Connect with Me
 
-(Your LinkedIn link here)
+(https://www.linkedin.com/in/ambuj-singh-02a300281/)
 
 ---
 
