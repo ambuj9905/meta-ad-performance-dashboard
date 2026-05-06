@@ -39,8 +39,8 @@ This dashboard solves these problems using data-driven insights.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/meta-ad-dashboard.png)
-
+![images](images/facebook.png)
+![images](images/instragram.png)
 ---
 
 ## 📈 Key Insights
